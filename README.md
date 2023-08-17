@@ -44,6 +44,13 @@ Vue/Django application to present data from sensors. [sensor-metrics-dashboard](
 * Docker, docker-compose
 * nginx
 
+## FastAPI-OpenAI-boosted-AWS-Lambda-deployed bot
+[fast-api-ai-bot-aws](https://github.com/balabanas/fast-api-ai-bot-aws)
+
+* FastAPI
+* OpenAI API-integration (ChatGPT & DALL-E models)
+* Instruction for manual deploy with Lambda AWS are included in README.md
+
 ## Data Analysis, Modeling, and Presentation
 * [pandas-demo](https://github.com/balabanas/pandas-demo/blob/main/real_riga.ipynb) Fancy Jupyter notebook with exploration of Riga Real Estate Dataset
 * [logreg](https://github.com/balabanas/logreg) Custom logistic classifier with numpy
